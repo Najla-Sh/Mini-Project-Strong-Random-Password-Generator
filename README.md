@@ -63,5 +63,5 @@ This is a simple game which is interact with user.
 
 The links to my repository and trello board is bellow:  
 
-[Repository](https://github.com/)   
+[Repository](https://github.com/Najla-Sh/Mini-Project-Strong-Random-Password-Generator/tree/master#organization)   
 [Trello](https://trello.com/b/gQpbpLJ7/strong-random-password-generator)  
